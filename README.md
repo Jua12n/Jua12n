@@ -1,14 +1,15 @@
 # Juan Pablo Lozano Ruiz
 
-### Senior Full Stack Engineer | Software Architect | Applied & Agentic AI
+### Senior Full Stack Engineer & Software Architect | Next.js, React & C#/.NET
 
-I build full-stack products and enterprise software, with 18+ years of experience across software architecture, automation, data workflows, and applied AI. This profile highlights selected independent projects and the engineering decisions behind them.
+I build full-stack products and enterprise software, with 18+ years of experience in software architecture, data platforms, analytics, and automation. My primary application stack is Next.js, React, and C#/.NET, complemented by experience with data warehousing, Power BI, Microsoft Power Platform, and applied AI.
 
 ## Focus areas
 
-- **Full stack:** TypeScript, React, Next.js, Node.js, C#/.NET
-- **Applied AI:** agent workflows, orchestration, and structured decision systems
-- **Architecture and data:** SaaS, Azure, PostgreSQL, and SQL Server
+- **Full-stack development (primary):** Next.js, React, TypeScript, C#/.NET, Node.js
+- **Data & analytics:** Data warehousing, data analysis, Power BI, SQL Server, PostgreSQL
+- **Automation & Microsoft Power Platform:** Power Automate, workflow automation, and Power Platform solutions
+- **Architecture & applied AI:** SaaS architecture, Azure, agent workflows, orchestration, and structured decision systems
 
 ## Featured project
 
